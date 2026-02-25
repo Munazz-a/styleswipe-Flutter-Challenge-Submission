@@ -131,15 +131,6 @@ Approximately **25 hours** (replace with actual time).
 
 ---
 
-## 📦 Submission Checklist
-
-This submission includes:
-
-- GitHub repository
-- APK file
-- 3–5 minute demo video
-- This README file
-
----
 
 Thank you for the opportunity to complete this challenge.
+
