@@ -109,7 +109,7 @@ All data persists across app restarts.
 - Add search and filtering functionality
 - Add animations for smoother UX
 - Improve UI polish and responsiveness
-- Implement caching strategy for API responses
+- Implement a caching strategy for API responses
 - Add unit tests and widget tests
 - Improve the history screen with timestamps
 
@@ -117,7 +117,7 @@ All data persists across app restarts.
 
 ## ⏱️ Approximate Time Spent
 
-Approximately **25 hours** (replace with actual time).
+Approximately **20 hours** (replace with actual time).
 
 ### Time Breakdown
 
@@ -133,4 +133,5 @@ Approximately **25 hours** (replace with actual time).
 
 
 Thank you for the opportunity to complete this challenge.
+
 
